@@ -1,4 +1,4 @@
-你好，这是我进行git指令学习与测试的项目\n
+你好，这是我进行git指令学习与测试的项目
 git init 初始化一个仓库
 git remote add <name> <repository_url> 链接一个远程库
 git branch -M main 命名一个叫main的分支 -M(move / rename)
